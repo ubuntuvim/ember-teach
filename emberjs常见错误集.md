@@ -64,6 +64,22 @@ ed
 
 然后重启项目即可。
 
+**6. 项目启动出现错误“”**
+
+错误截图如下：
+
+![错误截图2](http://7xnrhh.com1.z0.glb.clouddn.com/QQ%E5%9B%BE%E7%89%8720160914165642.jpg)
+
+解决方法：
+
+删除桌面的`.babelrc`这个文件，如果没看到这个文件请你使用命令删除
+
+1. `cd` 到桌面
+2. 执行`rm .babelrc`删除。
+
+
+
+
 参考网址：[https://github.com/ember-cli/ember-cli/issues/1418](https://github.com/ember-cli/ember-cli/issues/1418)
 
 
