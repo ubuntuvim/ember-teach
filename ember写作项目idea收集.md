@@ -60,8 +60,8 @@ nightire提出了一个非常好的点子——既然大家都想学习Ember.js�
 
 ## 联系我们
 
-QQ群：242650456
-nightire B站视频直播地址：[http://space.bilibili.com/16910485/#!/index](http://space.bilibili.com/16910485/#!/index)有新直播会在Q群发通知
+1. QQ群：242650456  
+2. nightire B站视频直播地址：[http://space.bilibili.com/16910485/#!/index](http://space.bilibili.com/16910485/#!/index)*有新直播会在Q群发通知*
 
 ## 感谢
 
