@@ -53,7 +53,7 @@ nightire提出了一个非常好的点子——既然大家都想学习Ember.js�
 ## 基础教程
 
 1. [视频教程](http://i.youku.com/i/UMzY0MjQ1Mzgw/videos)
-2. [中文教程](http://emberteach.ddlisting.com/)
+2. [v2.0版本中文文档](http://emberteach.ddlisting.com/)
 3. [emberigniter](http://emberigniter.com/)（英文）
 4. [emberwatch](http://emberwatch.com/screencasts.html)（英文）
 5. [其他资料](https://segmentfault.com/a/1190000000458897)
